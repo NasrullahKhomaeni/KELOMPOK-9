@@ -20,3 +20,7 @@ Pembagian Tugas SQL
 Pembagian Tugas Prototype
 - 5200411214 Mengerjakan Bagian Input,Proses,Output
 - 5200411208 Mengerjakan Bagian Desain Sketsa,Desain Interface
+
+Pembagian Tugas RAD pemodelan
+- 5200411208 Mengerjakan bagian jenis sistem,Bahasa pemograman,kebutuhan Hardware
+- 5200411214 Mengerjakan bagian kebutuhan software,kebutuhan input,kebutuhan informasi
