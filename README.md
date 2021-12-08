@@ -24,3 +24,7 @@ Pembagian Tugas Prototype
 Pembagian Tugas RAD pemodelan
 - 5200411208 Mengerjakan bagian jenis sistem,Bahasa pemograman,kebutuhan Hardware
 - 5200411214 Mengerjakan bagian kebutuhan software,kebutuhan input,kebutuhan informasi
+- 5200411256 Mengerjakan Pemodelan data & Proses bagian Arsitektur sistem,Use case, Activity Diagram
+- 5200411256 Mengerjakan Squence diagram,Class Diagram
+- 5200411208 Mengerjakan Pembentukan Aplikasi Antarmuka aplikasi dan kode program
+- 5200411214 Mengerjakan Pengujian & Turnover pertanyaan/tanggapan 
