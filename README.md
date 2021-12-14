@@ -28,3 +28,8 @@ Pembagian Tugas RAD pemodelan
 - 5200411256 Mengerjakan Squence diagram,Class Diagram
 - 5200411208 Mengerjakan Pembentukan Aplikasi Antarmuka aplikasi dan kode program
 - 5200411214 Mengerjakan Pengujian & Turnover pertanyaan/tanggapan 
+
+Pembagian Tugas Laporan SCRUM
+- 5200411208 Mengerjakan bagian Judul,Daftar isi,User stories dan Delivery Product
+- 5200411214 Mengerjakan bagian Pembuatan Product Blaklog
+- 5200411256 Mengerjakan bagian Melakukan Sprint
