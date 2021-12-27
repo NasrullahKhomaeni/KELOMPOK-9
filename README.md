@@ -33,3 +33,8 @@ Pembagian Tugas Laporan SCRUM
 - 5200411208 Mengerjakan bagian Judul,Daftar isi,User stories dan Delivery Product
 - 5200411214 Mengerjakan bagian Pembuatan Product Blaklog
 - 5200411256 Mengerjakan bagian Melakukan Sprint
+
+Pembagian Tugas Laporan metode Agile model Test-drivenDevelopment(TDD)
+- 5200411214 Mengerjakan Bab 1 dan Bab 2 tentang pendahuluan dan pembahasan
+- 5200411208 Mengerjakan Bab 3 tentang contoh metode(review 1 jurnal)
+- 5200411256 Mengerjakan Bab 4 tentang Perbandingan dengan metode waterfall, prototype, RAD
