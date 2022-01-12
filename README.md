@@ -41,3 +41,5 @@ Pembagian Tugas Laporan metode Agile model Test-driven Development(TDD)
 
 Pembagian Tugas Makalah Tentang Penggunaan Tools DevOps Junit
 - 5200411208 Mengerjakan Bab 3 Tentang Penggunaan Tools DevOps(Review 1 jurnal)
+- 5200411214 Mengerjakan Bab 1 dan Bab 2 Tentang pendahuluan dan pembahasan
+- 5200411256 Mengerjakan Bab 4 Tentang Perbandingan dengan metode waterfall, prototype, RAD, DevOps
